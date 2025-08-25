@@ -3,7 +3,8 @@ import ordenacao.BubbleSort;
 import ordenacao.MergeSort;
 
 public class Principal {
-	// Método auxiliar para imprimir o vetor de forma organizada
+	// Método auxiliar para imprimir o vetor de forma organizada.
+	// Teste
     public static void imprimirVetor(String nome, int[] vetor) {
         System.out.println("\n--- " + nome + " ---");
         System.out.print("[ ");
